@@ -84,23 +84,6 @@ export const EXPERIENCE = [
     featured: true,
   },
   {
-    slug: "sign-language-to-speech",
-    role: "Main Programmer",
-    org: "Sign Language to Speech — Emerging Technologies Programme",
-    logo: "",
-    location: "Accra, Ghana",
-    dates: "2025",
-    meta: "2025 · Accra, Ghana ·",
-    badge: "Programme",
-    desc: "Served as the main programmer for a team project developing a platform that translates sign language into speech, as part of an eight-week emerging technologies programme.",
-    bullets: [
-      "Led the programming effort for a team building a sign-language-to-speech translation platform over an eight-week programme",
-      "Contributed to turning the team's concept into a working solution, with the project recognised for Most Innovative Idea and Best Presentation",
-    ],
-    tags: ["Programming", "Emerging Technology", "Accessibility", "Teamwork"],
-    featured: true,
-  },
-  {
     slug: "africa-world-airlines",
     role: "Engineering Exposure",
     org: "Africa World Airlines",
@@ -174,14 +157,6 @@ export const EXPERIENCE = [
 /* ---- Projects ---- */
 
 export const PROJECTS = [
-  {
-    name: "Magnetorquers in CubeSat Attitude Control",
-    org: "Independent Aerospace Research",
-    meta: "2026",
-    desc: "Conducted independent research investigating the use of magnetorquers for controlling CubeSat rotation. Combined physics, mathematical modelling, and an independently developed C++ simulation to model satellite behaviour and determine key rotational parameters.",
-    tags: ["Aerospace Engineering", "CubeSats", "Attitude Control", "C++", "Mathematical Modelling"],
-    featured: true,
-  },
   {
     name: "Multi-University Application Platform",
     org: "Independent Development Project",
